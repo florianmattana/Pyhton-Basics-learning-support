@@ -16,3 +16,9 @@ print(celsius, "celsius is", kelvin, "Kelvin !")
 
 print(f"{celsius} Celsius is {fahrenheit} Fahrenheit!")
 print(f"{celsius} Celsius is {kelvin} Kelvin!")
+
+
+# Takeaway of the exercise
+
+# This exercise teaches how to take user input, perform arithmetic operations, and convert temperatures from Celsius to Fahrenheit and Kelvin. 
+# It also demonstrates how to display results clearly using both basic print statements and formatted string literals (f-strings) in Python
