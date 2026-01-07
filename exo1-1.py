@@ -18,6 +18,7 @@ print("Here is the difference :", difference)
 print("Here is the product :",product)
 print("Here is the quotient :",quotient)
 
+
 #===========================================
 
 # input() returns a string, so numeric input must be converted using int() or float()
