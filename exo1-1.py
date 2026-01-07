@@ -1,9 +1,9 @@
 # Exercise 1.1 - Basic Calculator
 # Create a program that:
 
-# Asks the user for two numbers
-# Displays their sum, difference, product, and quotient
-# Shows results with clear messages
+    # Asks the user for two numbers
+    # Displays their sum, difference, product, and quotient
+    # Shows results with clear messages
 
 input1 = float(input("Give the first number: "))
 input2 = float(input("Give the second number: "))
@@ -17,7 +17,6 @@ print("Here is the sum : ", total)
 print("Here is the difference :", difference)
 print("Here is the product :",product)
 print("Here is the quotient :",quotient)
-
 
 #===========================================
 
